@@ -13,8 +13,30 @@
     margin: 0 auto;
 }
 
+#grocery-list{
+height: 500px;
+width: 200px;
+margin-top: 200px;
+border : 2px solid black;
+text-align: center;
+padding-top: 30px;
+background-image: url(../img/paper.jpg);
+background-size: cover;
+
+}
+
+
 /* GENERIC */
 
 body{
     font-family: sans-serif;
+    background-image: url(../img/table.jpg);
+}
+
+li{
+    margin: 20px 0;
+    list-style-type: none;
+    font-family: 'Calligraffitti', cursive;
+    font-weight: bold;
+    font-size: 20px;
 }
