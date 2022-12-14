@@ -16,7 +16,7 @@
 .list-style{
 height: 500px;
 width: 200px;
-margin-top: 200px;
+margin: 100px auto;
 border : 2px solid black;
 text-align: center;
 padding-top: 30px;
